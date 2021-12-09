@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Science is magic that works"-Kurt Vonnegut
 Use the left arrow to go back!
